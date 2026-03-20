@@ -146,8 +146,7 @@ def fill_unlabelled_turns(
     for i in unlabelled_indices:
         turn = transcript.turns[i]
         prev = transcript.turns[i - 1] if i > 0 else None
-        nxt = transcript.turns[i + 1] if i < len(transcript.turns) - 1 else None
-
+        
         # Heuristic: short continuation → same speaker as previous
         if prev and prev.speaker and len(turn.text.split()) <= 8:
             turn.speaker = prev.speaker
