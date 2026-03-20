@@ -1,0 +1,17 @@
+00:00:05 Kostas Kazakos
+Thanks so much for joining today. Can you start by telling me how you currently handle transcript cleanup?
+
+00:00:14 Participant
+Yeah so um like we usually just, uh, copy paste into a Google Doc and then kind of manually go through it. It's, you know, pretty painful honestly.
+
+00:00:28 Kostas Kazakos
+How long does that typically take?
+
+00:00:31 Participant
+Like for a one hour interview, sort of, maybe two hours? Sometimes more. It's a lot.
+
+00:00:41 K Kazakos
+And what are the main pain points?
+
+00:00:44 Participant
+Speaker labels are wrong. And then um there are these tiny little fragments where someone just says "yeah" or "mm-hmm" and they get their own separate entry. Really annoying.
