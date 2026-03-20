@@ -23,7 +23,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -e ".[dev,cli]"
+          pip install pytest ruff click
+          pip install -e . --no-build-isolation
 
       - name: Lint with ruff
         run: ruff check transcript_cleaner/

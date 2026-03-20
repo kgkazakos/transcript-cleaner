@@ -3,7 +3,6 @@
 > Fix messy interview transcripts in seconds — speaker labels, filler words, fragmented turns, and broken timestamps. Rule-based by default. LLM-powered when you need it.
 
 [![CI](https://github.com/kgkazakos/transcript-cleaner/actions/workflows/ci.yml/badge.svg)](https://github.com/kgkazakos/transcript-cleaner/actions)
-[![PyPI](https://img.shields.io/pypi/v/transcript-cleaner)](https://pypi.org/project/transcript-cleaner/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -164,8 +163,8 @@ Bug reports, format support requests, and PRs welcome. If you use a transcript f
 
 **Related projects:**
 - [CausalTrack](https://github.com/kgkazakos/causaltrack) — detect the Say-Do Gap in user research sessions
-- [synthetic-participants](https://github.com/kgkazakos/synthetic-participants) — generate richly profiled synthetic research participants
-- [uxr-prompt-pack](https://github.com/kgkazakos/uxr-prompt-pack) — versioned LLM prompt library for UX research
+- [synthetic-user-council](https://github.com/kgkazakos/synthetic-user-council) — generate richly profiled synthetic research participants
+
 
 Learn more about CPR at [github.com/kgkazakos](https://github.com/kgkazakos).
 
