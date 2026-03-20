@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pytest ruff click
+          pip install setuptools pytest ruff click
           pip install -e . --no-build-isolation
 
       - name: Lint with ruff
@@ -31,3 +31,6 @@ jobs:
 
       - name: Run tests
         run: pytest --tb=short
+
+
+
